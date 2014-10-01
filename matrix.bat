@@ -1,5 +1,5 @@
 @echo off
-Color 2
+Color 3
 :start
 Echo %random% %random% %random% %random%
 goto start
